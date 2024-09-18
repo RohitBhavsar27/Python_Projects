@@ -1,0 +1,2 @@
+- This repository contains the multiple python projects from beginer to intermidiate to advance level.
+- In order to access the repository, pull out the repo, install the required libs and you are good to go.
